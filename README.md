@@ -1,4 +1,4 @@
-﻿# Agency 
+﻿# Agency. 
 echo "# Agency-" >> README.md
 git init
 git add README.md
